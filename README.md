@@ -1,11 +1,4 @@
-# 🌿 Smart Agriculture Decision Support System
-
-> **Multi-Model AI Pipeline · Bahria University, Islamabad · BSE-6 OEL [CLO-2]**  
-> Course Instructor: Engr. Saad Mazhar Khan · Course: Artificial Intelligence
-
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python)](https://python.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4%2B-F7931E?logo=scikit-learn)](https://scikit-learn.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+#  Smart Agriculture Decision Support System
 
 ---
 
@@ -170,10 +163,4 @@ The Tkinter interface provides four panels:
 
 ---
 
-## License
 
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-*Bahria University, Islamabad Campus · Department of Software Engineering · 2025*
